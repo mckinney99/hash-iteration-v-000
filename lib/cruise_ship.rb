@@ -13,7 +13,7 @@ def select_winner(passengers)
       winner = name
     end
   end
-  # add the code snippet here!
+  winner
 end
 
 def happy_birthday(birthday_kids)
